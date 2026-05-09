@@ -1,1 +1,1537 @@
-
+[
+  {
+    "name": "AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+    "hash": "537f84f1153369d61878965846a8ead7c5eae3a6ad917b04c02521ad76182ad2",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar"
+  },
+  {
+    "name": "AI-Improvements-1.20-0.5.2.jar",
+    "hash": "575a4a8e00f982c064d54bb3e73e5cda2d14414de054a471a3daf3f58bdf560a",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/AI-Improvements-1.20-0.5.2.jar"
+  },
+  {
+    "name": "alltheleaks-1.1.1+1.20.1-forge.jar",
+    "hash": "7b8e945da294b745e6aed9f88f28e232a767e032d7c2b8137a8ef36421d9fb33",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/alltheleaks-1.1.1%2B1.20.1-forge.jar"
+  },
+  {
+    "name": "almanac-1.20.x-forge-1.0.2.jar",
+    "hash": "b8e0b42329c11739201d132bc99720e8205badc4ce862b30e4eec04b833e3419",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/almanac-1.20.x-forge-1.0.2.jar"
+  },
+  {
+    "name": "alternate_current-mc1.20-1.7.0.jar",
+    "hash": "9dfa5365ef170323612d6ada820b7cac12e05135f00f16d0f627488426f59565",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/alternate_current-mc1.20-1.7.0.jar"
+  },
+  {
+    "name": "AlwaysEat-5.2.jar",
+    "hash": "e416a69d7b681a6fc4fbc630f3d11ac616f3556a7ff216785d41e94e4752bfea",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/AlwaysEat-5.2.jar"
+  },
+  {
+    "name": "animal_pen-forge-1.20-1.6.1.jar",
+    "hash": "19cd14ef819f3d1b98e9e226b08c42ec01c2e893835058cbc1f20d79c7111afe",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/animal_pen-forge-1.20-1.6.1.jar"
+  },
+  {
+    "name": "another_furniture-forge-1.20.1-3.0.4.jar",
+    "hash": "421074f4dbb3fd8a5446c03378be70f14bd95feb56b8de7f992b89a5851a8c6d",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/another_furniture-forge-1.20.1-3.0.4.jar"
+  },
+  {
+    "name": "apocalypsenow-3.0.4NS-forge-1.20.1.jar",
+    "hash": "9745131947d2f7ae4b610b54adc5d90c4751f85279c0468d6bea5b867f6d41bd",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/apocalypsenow-3.0.4NS-forge-1.20.1.jar"
+  },
+  {
+    "name": "apoc_patches-1.0.4-all.jar",
+    "hash": "e847754678beae4547a61c24d7aa58d3005b1264733082fc061479e5ce1d2b86",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/apoc_patches-1.0.4-all.jar"
+  },
+  {
+    "name": "ApothicAttributes-1.20.1-1.3.7.jar",
+    "hash": "68487b11c0d4e2f67a85f2b04bf65e99ac15294f2923f4391f83e9542293187a",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ApothicAttributes-1.20.1-1.3.7.jar"
+  },
+  {
+    "name": "appleskin-forge-mc1.20.1-2.5.1.jar",
+    "hash": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/appleskin-forge-mc1.20.1-2.5.1.jar"
+  },
+  {
+    "name": "architectury-9.2.14-forge.jar",
+    "hash": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/architectury-9.2.14-forge.jar"
+  },
+  {
+    "name": "armorpointspp-forge-1.20-3.1.1.jar",
+    "hash": "95bb87c7324f0ee1680f5465e6e2ed73fba6a19bb90e58f0ca28ff3ff062fdfa",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/armorpointspp-forge-1.20-3.1.1.jar"
+  },
+  {
+    "name": "artifacts-forge-9.5.16.jar",
+    "hash": "b39b1aa5882b81f4a53710f841232e25c2eecb577bbde2f399c34bba5fee6e04",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/artifacts-forge-9.5.16.jar"
+  },
+  {
+    "name": "Atlas Lib-1.20.1-1.1.12.jar",
+    "hash": "8cc9b5b46e65affed0c38aa54da6870ec4e820364c654c4dd2bb70a94ba39c50",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Atlas%20Lib-1.20.1-1.1.12.jar"
+  },
+  {
+    "name": "AttributeFix-Forge-1.20.1-21.0.4.jar",
+    "hash": "5d8cc8928ce480288d5b504663bb13104df56ac72ce5bf36f2743ec27c701112",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/AttributeFix-Forge-1.20.1-21.0.4.jar"
+  },
+  {
+    "name": "BadOptimizations-2.2.3-1.20.1.jar",
+    "hash": "b63a20e6f4dbf1bc14a77148107396fa1480c8bdf01a8883e2f2a6454e4c0739",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/BadOptimizations-2.2.3-1.20.1.jar"
+  },
+  {
+    "name": "baguettelib-1.20.1-Forge-1.0.0.jar",
+    "hash": "98b2839028864c0f5c4d6099bbea97de7a7eebe3966bb1df58aad25a18371287",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/baguettelib-1.20.1-Forge-1.0.0.jar"
+  },
+  {
+    "name": "balm-forge-1.20.1-7.3.31-all.jar",
+    "hash": "670c8a508d579edd458813a5e46577eb781a593b73b7ca8a5b6be9a39a363df2",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/balm-forge-1.20.1-7.3.31-all.jar"
+  },
+  {
+    "name": "BeeFix-1.20-1.0.7.jar",
+    "hash": "5fa50cfbd0ee3d0472ba8e9162d40e9556ea930a6bbcf93de2ab751365b58566",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/BeeFix-1.20-1.0.7.jar"
+  },
+  {
+    "name": "BetterAdvancements-Forge-1.20.1-0.4.2.10.jar",
+    "hash": "3ff02700a0897682a221374a1547e9e739d7b195989f9400d3a1d3b59d8a2a20",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/BetterAdvancements-Forge-1.20.1-0.4.2.10.jar"
+  },
+  {
+    "name": "betterbiomereblend-1.5.3.jar",
+    "hash": "76118a2916c342ae6926e22a0e697797b30a01a4850c9e2553d8c17652fd6809",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/betterbiomereblend-1.5.3.jar"
+  },
+  {
+    "name": "bettercombat-forge-1.8.6+1.20.1.jar",
+    "hash": "e147e13732e0fac83aee209487fdeb10a03e52c33e1b1439dbce01a80f3e8dbb",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/bettercombat-forge-1.8.6%2B1.20.1.jar"
+  },
+  {
+    "name": "BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
+    "hash": "71ecffc7c33ae896d9299f392db11bd50027c2dcbd8b16593fa6b6a6a4018502",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/BetterCompatibilityChecker-forge-4.0.8%2Bmc1.20.1.jar"
+  },
+  {
+    "name": "binocularsmod-1.02.jar",
+    "hash": "d4d5bf00000fc464d5d2d1ee500cf33943e3b284e078c2f01886a2c635fbfaff",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/binocularsmod-1.02.jar"
+  },
+  {
+    "name": "biomereplacer-2.1-hippo-forge.jar",
+    "hash": "43261143027d661aa9e8fd44a0770aca9ba13aa1a7fba05ff9c35dcb2010cd60",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/biomereplacer-2.1-hippo-forge.jar"
+  },
+  {
+    "name": "biomesize-1.20.1-1.5.jar",
+    "hash": "ae905a168c93f2863d409697b56c89add6069716bfd82571b2a5811942bdc51f",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/biomesize-1.20.1-1.5.jar"
+  },
+  {
+    "name": "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+    "hash": "330f482487ac3135557b6e898d7e1ae5330321e9cfd5ba63e13a16cf2e8d8b98",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar"
+  },
+  {
+    "name": "biomespawnpoint-1.20.1-2.4.jar",
+    "hash": "4827b29e420e57d686a5146d89a9bc0ad90602d237c175f8bbf7c3763e763ecf",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/biomespawnpoint-1.20.1-2.4.jar"
+  },
+  {
+    "name": "bocchium-1.20.1-0.0.3.jar",
+    "hash": "8cd971cc5774aed3b02b67810891837adc7e348c8a45be0590d28ea110fdb9fa",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/bocchium-1.20.1-0.0.3.jar"
+  },
+  {
+    "name": "Bookshelf-Forge-1.20.1-20.2.13.jar",
+    "hash": "c31fed2c1a1c0d72d3ef996bb84521b7d6a8fbd3115c89c001f13a7ffd56f64b",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Bookshelf-Forge-1.20.1-20.2.13.jar"
+  },
+  {
+    "name": "botarium-forge-1.20.1-2.3.4.jar",
+    "hash": "470810a364ff4ad4d4fcd4e55798263938fc893970eacecc58e8b741a392b1cf",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/botarium-forge-1.20.1-2.3.4.jar"
+  },
+  {
+    "name": "BuildersDelight-1.20.1-v.1.3.jar",
+    "hash": "de45e0ed47536a2d08b79049f8223ad94a74bbad6edcd8da9f622686a598bcf4",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/BuildersDelight-1.20.1-v.1.3.jar"
+  },
+  {
+    "name": "carryon-forge-1.20.1-2.1.2.7.jar",
+    "hash": "d7470921fc5ff988788d43409083f62478aecc91f4b81d7e6b63c80c933d4613",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/carryon-forge-1.20.1-2.1.2.7.jar"
+  },
+  {
+    "name": "catalogue-forge-1.20.1-1.8.0.jar",
+    "hash": "58445fc445546ab0db677edb9bf45bb87b99370e6483ee9080d816a9109cb210",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/catalogue-forge-1.20.1-1.8.0.jar"
+  },
+  {
+    "name": "cfm-forge-1.20.1-7.0.0-pre36.jar",
+    "hash": "5fdbc245003d2cb46b92eb9120d7bca7f03422628daed24c818baa195efe8663",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/cfm-forge-1.20.1-7.0.0-pre36.jar"
+  },
+  {
+    "name": "cfm_wap-1.20.1-forge-1.2.0.jar",
+    "hash": "84d3294cc1ae11622c0b6abbe235891f637859f5bd333acf1727db5de8c598db",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/cfm_wap-1.20.1-forge-1.2.0.jar"
+  },
+  {
+    "name": "CGM-Unofficial-1.4.18+Forge+1.20.1.jar",
+    "hash": "57e6b4549e1ebe197c47a06bfc8d3eae969d89d3640322a82b46342294cd7662",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/CGM-Unofficial-1.4.18%2BForge%2B1.20.1.jar"
+  },
+  {
+    "name": "chalk-1.20.1-1.6.7.jar",
+    "hash": "ff3531adba026a5891e098e791a8ac7a1efa5c800657216548867befd26ace51",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/chalk-1.20.1-1.6.7.jar"
+  },
+  {
+    "name": "Chunky-1.3.146.jar",
+    "hash": "996a3c9b53e6c0e0850fb9e78d3546d2c37a1b789ddaf529b17e4fe62ab23141",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Chunky-1.3.146.jar"
+  },
+  {
+    "name": "cleanview-1.20.1-v1.jar",
+    "hash": "20ae09339ee2cae7e41dd1c1e31f8bcf0be2529cbdb3f66af808cba87ded7c56",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/cleanview-1.20.1-v1.jar"
+  },
+  {
+    "name": "ClickMachine-1.20.1-8.0.2.jar",
+    "hash": "c41c0896f8908e5fa728426b6645bcca8999d6082042a3ec2d8a0596a8be7dd7",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ClickMachine-1.20.1-8.0.2.jar"
+  },
+  {
+    "name": "clientcrafting-1.20.1-1.8.jar",
+    "hash": "b0954f3e1d6dabf71bd88ad870f13b0e1bd6f0ee9d7ceb047823378a8a0e0a4c",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/clientcrafting-1.20.1-1.8.jar"
+  },
+  {
+    "name": "cloth-config-11.1.136-forge.jar",
+    "hash": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/cloth-config-11.1.136-forge.jar"
+  },
+  {
+    "name": "Clumps-forge-1.20.1-12.0.0.4.jar",
+    "hash": "1d1cfcf386f182b1d0bdbe4bd4fc57b96234e8c7468e95e1575ad4dd6433243a",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Clumps-forge-1.20.1-12.0.0.4.jar"
+  },
+  {
+    "name": "cobweb-forge-1.20.1-1.0.1.jar",
+    "hash": "93771b365320a08d0516633afb210f36f5aa20c0906dc4f1ead394250f660736",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/cobweb-forge-1.20.1-1.0.1.jar"
+  },
+  {
+    "name": "collective-1.20.1-8.3.jar",
+    "hash": "6719ac5ebb35227b0b28e097c7850ec639410eef97333e2988c2c0d561b23301",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/collective-1.20.1-8.3.jar"
+  },
+  {
+    "name": "colorwheel-forge-1.1.1+mc1.20.1.jar",
+    "hash": "2440260d49f61cf7e6530a2da5c7c38fc11792e4d62f6caf7377b688c066178f",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/colorwheel-forge-1.1.1%2Bmc1.20.1.jar"
+  },
+  {
+    "name": "colorwheel_patcher-forge-1.0.3+mc1.20.1.jar",
+    "hash": "b52d5b700baf8b574893ee7fb57d0a7566be753ad734b8049874f02abf1e852d",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/colorwheel_patcher-forge-1.0.3%2Bmc1.20.1.jar"
+  },
+  {
+    "name": "comforts-forge-6.4.0+1.20.1.jar",
+    "hash": "56398103e0e3821c98f21a5b556d57deb0686b9f50868b4278ecb73cc9d2f42c",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/comforts-forge-6.4.0%2B1.20.1.jar"
+  },
+  {
+    "name": "configured-forge-1.20.1-2.2.3.jar",
+    "hash": "05dceddd57825f911135c929504ef320b75953d05e7dc918dba58a0574e5315f",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/configured-forge-1.20.1-2.2.3.jar"
+  },
+  {
+    "name": "connectivity-1.20.1-7.2.jar",
+    "hash": "4b7278a0c5f9a13371ad08d235a91bc94c0783ec62f0be0103ba91a01106188a",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/connectivity-1.20.1-7.2.jar"
+  },
+  {
+    "name": "Connector-1.0.0-beta.47+1.20.1.jar",
+    "hash": "44f7208f5384bc2b5da3957051c701e279d3f6c720b75582ec35274ea8f68cc5",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Connector-1.0.0-beta.47%2B1.20.1.jar"
+  },
+  {
+    "name": "controllable-forge-1.20.1-0.21.7.jar",
+    "hash": "abcbb3eb57f624ff973ecece786a3ba05353f6e2dbbe1d597da2d3b65d9d5410",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/controllable-forge-1.20.1-0.21.7.jar"
+  },
+  {
+    "name": "Controlling-forge-1.20.1-12.0.2.jar",
+    "hash": "516308a93824119f6a1ebc75425aa21ee8f8de0c331942793a054ba6d9c24944",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Controlling-forge-1.20.1-12.0.2.jar"
+  },
+  {
+    "name": "Corgilib-Forge-1.20.1-4.0.3.4.jar",
+    "hash": "9e638c7e73d997bb4ecba4aa40de90e89dd15fdbc4235fb997eed9ad43c10cd3",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Corgilib-Forge-1.20.1-4.0.3.4.jar"
+  },
+  {
+    "name": "coroutil-forge-1.20.1-1.3.7.jar",
+    "hash": "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/coroutil-forge-1.20.1-1.3.7.jar"
+  },
+  {
+    "name": "corpse-forge-1.20.1-1.0.21.jar",
+    "hash": "d18b10a5c663898e322f39eb25576a3a923452802256fe389715d0a6bbd5a36f",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/corpse-forge-1.20.1-1.0.21.jar"
+  },
+  {
+    "name": "corpsecurioscompat-1.20.1-Forge-3.1.2.jar",
+    "hash": "2f94514d9afc42d637f5f55a008d81ba3d80530e25679954a0abae76bce6a678",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/corpsecurioscompat-1.20.1-Forge-3.1.2.jar"
+  },
+  {
+    "name": "cosmeticarmorreworked-1.20.1-v1a.jar",
+    "hash": "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/cosmeticarmorreworked-1.20.1-v1a.jar"
+  },
+  {
+    "name": "CraftPresence-2.7.0+1.20.1-forge.jar",
+    "hash": "ac6e1d0e966dfe423006c43dfcd6cc440ef4f6fe6cb3b24a9506193c8bf0f684",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/CraftPresence-2.7.0%2B1.20.1-forge.jar"
+  },
+  {
+    "name": "CrashAssistant-forge-1.19-1.20.1-1.10.27.jar",
+    "hash": "d0e0a9c2779656f53e9165290b67894671dd6f2ff4ffdc37817e2938a0ceeec0",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/CrashAssistant-forge-1.19-1.20.1-1.10.27.jar"
+  },
+  {
+    "name": "create-1.20.1-6.0.6.jar",
+    "hash": "6cb1e5b25e7d5fb670ef0713ca6da17525a1b9658e2a523fd76c2a32bbc0b2ed",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/create-1.20.1-6.0.6.jar"
+  },
+  {
+    "name": "create-stuff-additions1.20.1_v2.1.0.jar",
+    "hash": "e8dd1e66acb02e86d408826a98824f584e531620df9a00280cc3fd6dcd4d4700",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/create-stuff-additions1.20.1_v2.1.0.jar"
+  },
+  {
+    "name": "createaddition-1.20.1-1.3.2.jar",
+    "hash": "944a617e3cf9d0d4965c7816050e3f317a52d74e7563d5325ccebece2cbc3eaa",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/createaddition-1.20.1-1.3.2.jar"
+  },
+  {
+    "name": "createbetterfps-1.20.1-1.1.1.jar",
+    "hash": "606f7af0c384b3e3d99e8c77860627a68f1bd463b134d06a33bd2d49d93f0b78",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/createbetterfps-1.20.1-1.1.1.jar"
+  },
+  {
+    "name": "createbigcannons-5.9.1-mc.1.20.1-forge.jar",
+    "hash": "37692afd831b3e4619cc3b0ac0299195f58bf7466365710bb1acc2d8461c262b",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/createbigcannons-5.9.1-mc.1.20.1-forge.jar"
+  },
+  {
+    "name": "createdeco-2.0.3-1.20.1-forge.jar",
+    "hash": "7d6dd0094d18d6bab64fcd7de680ea736015d1a1ffc472d3fe03122bc7aa0864",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/createdeco-2.0.3-1.20.1-forge.jar"
+  },
+  {
+    "name": "createdieselgenerators-1.20.1-1.3.5.jar",
+    "hash": "68e7fe54d242a1542fd0fe7dd9764887ffb7c6b210ea9463b7b8b57b56cc6178",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/createdieselgenerators-1.20.1-1.3.5.jar"
+  },
+  {
+    "name": "createstuffadditionsfix-forge-1.20.1-0.0.0.1.jar",
+    "hash": "2863e0903cbf9604ce1dc776df469bd6c749608efba8c996a331395f6d527d87",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/createstuffadditionsfix-forge-1.20.1-0.0.0.1.jar"
+  },
+  {
+    "name": "create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar",
+    "hash": "1ed474df7dcd5a3847953a232acb981b49008273cc721737f3db4cc41d24cb89",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar"
+  },
+  {
+    "name": "create_hypertube-0.2.5-FORGE.jar",
+    "hash": "615cb862c6757008e7c38a3858a3776c675d31fee2c1c280bfe10bfa1f07dd36",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/create_hypertube-0.2.5-FORGE.jar"
+  },
+  {
+    "name": "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+    "hash": "3d2271f7d9d2e32fca46d19f3b6ab4372d30e0ea3eb26c809c23366e8d503e16",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar"
+  },
+  {
+    "name": "crittersandcompanions-forge-1.20.1-2.3.5.jar",
+    "hash": "d7be3f0ed78eb4d0f8f607c969a600f45644da5b3cf5bf4e89c977c4af452701",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/crittersandcompanions-forge-1.20.1-2.3.5.jar"
+  },
+  {
+    "name": "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+    "hash": "b91ca5cd028b1c919e28851b984edd61874d44ad8038cdeee87315d2656cb292",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar"
+  },
+  {
+    "name": "cupboard-1.20.1-2.7.jar",
+    "hash": "63a1b6e8e9cffd53f283fae04f64b8d63dcaaa99fe0e383bb664f23ec87d395f",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/cupboard-1.20.1-2.7.jar"
+  },
+  {
+    "name": "curios-forge-5.14.1+1.20.1.jar",
+    "hash": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/curios-forge-5.14.1%2B1.20.1.jar"
+  },
+  {
+    "name": "CustomNPCs-1.20.1-GBPort-Unofficial-20251031.jar",
+    "hash": "2466e85869c467becbd3d6736c285e49d4dfa1b1b11deb68607180a448b2d777",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/CustomNPCs-1.20.1-GBPort-Unofficial-20251031.jar"
+  },
+  {
+    "name": "customportalapi-0.0.1-forge-1.20.jar",
+    "hash": "beb4dc20bb307c28c1b5a510515baf69818ffa1b74cd8a5e1d50b1ba74407c73",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/customportalapi-0.0.1-forge-1.20.jar"
+  },
+  {
+    "name": "darkness-forge-1.20.1-2.0.103-fork.jar",
+    "hash": "6a1e7db25ad3eeb48642ac2fa3d5a61043e32493c9fda7f0631ba4f3f4cc3fd4",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/darkness-forge-1.20.1-2.0.103-fork.jar"
+  },
+  {
+    "name": "DarkPaintings-Forge-1.20.1-17.0.4.jar",
+    "hash": "e97adc416405282e5d0772680df78f25b28fc8a3d9f25c75d4af09ad10442292",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/DarkPaintings-Forge-1.20.1-17.0.4.jar"
+  },
+  {
+    "name": "DCTweaks_5.10.14.jar",
+    "hash": "10953fdbaf061e4b87c598ab3c47177b63a8f1b1299f6055c3c90c7bc7664e1d",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/DCTweaks_5.10.14.jar"
+  },
+  {
+    "name": "deceased_expansion-1.10-all.jar",
+    "hash": "250562da82416679c6233b8ecf22388507f1818e378e7e14e684f806a3ae8f9d",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/deceased_expansion-1.10-all.jar"
+  },
+  {
+    "name": "default-server-properties-forge-81.1.0.jar",
+    "hash": "6e5cb9d71cb7b9744ea46c2c49dea236490a04e9f8ba3658f6dea4a9ebef4d27",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/default-server-properties-forge-81.1.0.jar"
+  },
+  {
+    "name": "defaultoptions-forge-1.20.1-18.0.4.jar",
+    "hash": "88b89d7734a4f5d99e9464fc368428a72e5052c3570865a954cf74ef98a2581b",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/defaultoptions-forge-1.20.1-18.0.4.jar"
+  },
+  {
+    "name": "diet-forge-2.1.1+1.20.1.jar",
+    "hash": "2e3b631cd9773996c7eaefe3c1cd086045b9b9a193a8e4ab29cc8e64d937e5bd",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/diet-forge-2.1.1%2B1.20.1.jar"
+  },
+  {
+    "name": "displaydelight-1.1.0.jar",
+    "hash": "3e2fc38089bcfac5bd905e9947341738edd69b701ba0a474eea49abcbbc932b8",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/displaydelight-1.1.0.jar"
+  },
+  {
+    "name": "DragN_Vehicles-1.20.1-1.3.2.jar",
+    "hash": "504b3e11da8086fc6a66be061e31f2006cb8e0d127e4048dd55f8bad6134af04",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/DragN_Vehicles-1.20.1-1.3.2.jar"
+  },
+  {
+    "name": "drippyloadingscreen_forge_3.1.0_MC_1.20.1.jar",
+    "hash": "5dc8087df6d6d8849fe1df5a6a342268a6986731ee801cb46a58d725d9e1e204",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/drippyloadingscreen_forge_3.1.0_MC_1.20.1.jar"
+  },
+  {
+    "name": "dummmmmmy-1.20-2.0.9.jar",
+    "hash": "bfbda7e454cd2cc547578208b3c42a2526a2615b155c76952f6981ba3da0fe89",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/dummmmmmy-1.20-2.0.9.jar"
+  },
+  {
+    "name": "durabilitytooltip-1.1.6-forge-mc1.20.jar",
+    "hash": "52ea663852860eef04fc55268dd3890b338c9968f8b7f3ef504fd013a05b28f0",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/durabilitytooltip-1.1.6-forge-mc1.20.jar"
+  },
+  {
+    "name": "e4mc_minecraft-forge-5.4.1.jar",
+    "hash": "2d5f3790bd1c69614d14be0e01d62874f593f53bf5fde490b9279158725b306e",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/e4mc_minecraft-forge-5.4.1.jar"
+  },
+  {
+    "name": "eh1.3.1-1.20.1.jar",
+    "hash": "d245754b0fd53b1246e0edae6eeb3a668773c65623b3fff070550e2080df7a6a",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/eh1.3.1-1.20.1.jar"
+  },
+  {
+    "name": "embeddium-0.3.31+mc1.20.1.jar",
+    "hash": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/embeddium-0.3.31%2Bmc1.20.1.jar"
+  },
+  {
+    "name": "embellishcraft-1.20.1-7.0.0.0.jar",
+    "hash": "e509691641f108c3f6e78c89834a21db54d3c86c415af791312914984c890dd7",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/embellishcraft-1.20.1-7.0.0.0.jar"
+  },
+  {
+    "name": "EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+    "hash": "d8501371240082c3436c03380f7a59820fd981e9c5d9fb2978a222ea114b23ae",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar"
+  },
+  {
+    "name": "EngineeredSchematics-1.2.3.jar",
+    "hash": "16c36ae1a3e49be1c9a92d684e5fdc24b4301863305b4c940012d9b0d9ccf84c",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/EngineeredSchematics-1.2.3.jar"
+  },
+  {
+    "name": "Engineers Delight 1.20.1 B.1.4.jar",
+    "hash": "95cbf61b72bdd2cf091e68f9f57246086488036a7960a539e28b7872bb56f1cd",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Engineers%20Delight%201.20.1%20B.1.4.jar"
+  },
+  {
+    "name": "enhancedai-2.6.8.jar",
+    "hash": "5d76aee1fb0a7ddf256c8eb4126674b634375fb61653e8097e94a6aa25f99617",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/enhancedai-2.6.8.jar"
+  },
+  {
+    "name": "entityculling-forge-1.9.4-mc1.20.1.jar",
+    "hash": "0a95e730ccc81ba60e65af6b76dacf96f9e00fd391c50e9695d5fd5ace275ab7",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/entityculling-forge-1.9.4-mc1.20.1.jar"
+  },
+  {
+    "name": "entityjs-0.5.9-1.20.1.jar",
+    "hash": "8b5110defdcb21cb859acbca4d7cb925231125683a5b15478315acc679354c87",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/entityjs-0.5.9-1.20.1.jar"
+  },
+  {
+    "name": "entity_model_features_forge_1.20.1-2.2.jar",
+    "hash": "9662847571fb048e2bb9306bb79883427bd151d7cd8fc4277da74e54e8c49c38",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/entity_model_features_forge_1.20.1-2.2.jar"
+  },
+  {
+    "name": "entity_texture_features_forge_1.20.1-6.2.9.jar",
+    "hash": "f4a4b89409c0f67a3eb3930e33334382b8166c5a90259a6e7fdf5df19c365c12",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/entity_texture_features_forge_1.20.1-6.2.9.jar"
+  },
+  {
+    "name": "EquipmentCompare-1.20.1-forge-1.3.7.jar",
+    "hash": "21805771b6fe1a05abf7c6c87689a60e97b167179ba31a5c4c2b47fb0a3b7632",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/EquipmentCompare-1.20.1-forge-1.3.7.jar"
+  },
+  {
+    "name": "EuphoriaPatcher-1.7.8-r5.6.1-forge.jar",
+    "hash": "4cf57a650fb1a323f6fa840c72bb6f464778116068e83d6d695faf21baa85969",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/EuphoriaPatcher-1.7.8-r5.6.1-forge.jar"
+  },
+  {
+    "name": "expandability-9.0.4.jar",
+    "hash": "c1f7c3ba5873bb4797d2124c57bab3189acdb62d02f63217db1456d232dac20f",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/expandability-9.0.4.jar"
+  },
+  {
+    "name": "explosiveenhancement-1.1.0-1.20.1-client-and-server.jar",
+    "hash": "658f09ff6bfd0c6d44c12215f18103c7e45f851fe6dc2c583b169cf6a157bd7a",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/explosiveenhancement-1.1.0-1.20.1-client-and-server.jar"
+  },
+  {
+    "name": "exposure-1.20.1-1.7.16-forge.jar",
+    "hash": "55a8351bffc41b0d4a520d004c05561d4d76c1a1128f364bd4a44251c00f1de9",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/exposure-1.20.1-1.7.16-forge.jar"
+  },
+  {
+    "name": "extragore-1.20.1-5.2.3.1.jar",
+    "hash": "c3d2547819d06deb51906e1abf7bf44e229f1d6e1dad274fa1c9ea1fe3950632",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/extragore-1.20.1-5.2.3.1.jar"
+  },
+  {
+    "name": "ExtremeReactors2-1.20.1-2.0.94.jar",
+    "hash": "ae20a95ce161c75e2d552bc95fbc8f4e61218f39edf45603fc8679405a98e123",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ExtremeReactors2-1.20.1-2.0.94.jar"
+  },
+  {
+    "name": "ExtremeSoundMuffler-3.49.2-forge-1.20.1.jar",
+    "hash": "d5b6b06981034657e63dc38f8d48f24a757be245bd0256b9ccc5dc2f8e2d08c7",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ExtremeSoundMuffler-3.49.2-forge-1.20.1.jar"
+  },
+  {
+    "name": "ezvcsurvival-forge-1.20.1-1.4.2.jar",
+    "hash": "01cadc8c731498d05c0b8545ec13dc3af39e7b69d6782522e985a9c8b2e70ac9",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ezvcsurvival-forge-1.20.1-1.4.2.jar"
+  },
+  {
+    "name": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+    "hash": "9b140af437581d32e5ee17d20f8fe882000e6a34cba85c152ae5bccc9570cc03",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/fabric-api-0.92.6%2B1.11.14%2B1.20.1.jar"
+  },
+  {
+    "name": "fancymenu_forge_3.8.1_MC_1.20.1.jar",
+    "hash": "ba1ddf0f61def8ea87e7757ebb45f1390e1da0f7ebce1aff299b0a169b045858",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/fancymenu_forge_3.8.1_MC_1.20.1.jar"
+  },
+  {
+    "name": "fancytrinkets-1.20-3.0.5.jar",
+    "hash": "88ab6e722cfde3a17e7a735489c9f80d75c2ea5b6817b2bb05dab4f198efa2bb",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/fancytrinkets-1.20-3.0.5.jar"
+  },
+  {
+    "name": "FarmersDelight-1.20.1-1.2.9.jar",
+    "hash": "45e8e4daf04283fc5a7fec955e6a1e622ee0e9d4e1b5e79dbcf5b095bb510082",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/FarmersDelight-1.20.1-1.2.9.jar"
+  },
+  {
+    "name": "fastasyncworldsave-1.20.1-2.6.jar",
+    "hash": "31283f2d8ad9462cb9619cc1bd2e61afa24939b91dcf46c87d5495e3c61207f7",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/fastasyncworldsave-1.20.1-2.6.jar"
+  },
+  {
+    "name": "fastboot-1.20.x-1.2.jar",
+    "hash": "66c44b0648a3e3d4115c37593208b85668a97ce012355bad3d33f3cd8142a11f",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/fastboot-1.20.x-1.2.jar"
+  },
+  {
+    "name": "FastFurnace-1.20.1-8.0.2.jar",
+    "hash": "970c11c090e7a364e2e006aabb5e573f79901e710e97195334ee5802317776e8",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/FastFurnace-1.20.1-8.0.2.jar"
+  },
+  {
+    "name": "FastLeafDecay-32.jar",
+    "hash": "ce48db06bfb5830c147969793771a8f8b5a5774b182543b906bc439efd4e9469",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/FastLeafDecay-32.jar"
+  },
+  {
+    "name": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+    "hash": "038a5fa1c044d5afae22502ca1444eeb1a700d34a224996c25f233524ae35a7a",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Fastload-Reforged-mc1.20.1-3.4.0.jar"
+  },
+  {
+    "name": "fastpaintings-1.20-1.2.7.jar",
+    "hash": "cb7e71c87abb53d9bf66836ff3a9036dde261594e25ecbe3e140fe3153ce4358",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/fastpaintings-1.20-1.2.7.jar"
+  },
+  {
+    "name": "FastSuite-1.20.1-5.1.0.jar",
+    "hash": "326932853763885ed703d8969a62c459235d6b4a2b6a194535feb3daca484f84",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/FastSuite-1.20.1-5.1.0.jar"
+  },
+  {
+    "name": "FastWorkbench-1.20.1-8.0.4.jar",
+    "hash": "86d20c6879bf86ef76b3fd94998d3e5c3327acb5d5324b6eb0b5348354766620",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/FastWorkbench-1.20.1-8.0.4.jar"
+  },
+  {
+    "name": "ferritecore-6.0.1-forge.jar",
+    "hash": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ferritecore-6.0.1-forge.jar"
+  },
+  {
+    "name": "flerovium-forge-1.20.1-1.2.16-all.jar",
+    "hash": "501c86caed789c581c450862582fab6a037b994351fb6c33c7b8dd915a9875b6",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/flerovium-forge-1.20.1-1.2.16-all.jar"
+  },
+  {
+    "name": "flickerfix-1.20.1-4.0.1.jar",
+    "hash": "6f154f6bd798cdf5a9f3f90c743b396b2162308c69d9713af22091a18a4746b6",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/flickerfix-1.20.1-4.0.1.jar"
+  },
+  {
+    "name": "framework-forge-1.20.1-0.7.15.jar",
+    "hash": "0c29b9bab2ca7209a6cc8d80b2cd06daa4be2da81b636f7292cebebfaaea6c08",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/framework-forge-1.20.1-0.7.15.jar"
+  },
+  {
+    "name": "ftb-library-forge-2001.2.10.jar",
+    "hash": "c721880edd4f3a78965a350b2f12c6fe05f74dba4037a2a08fd792f9cbb1db97",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ftb-library-forge-2001.2.10.jar"
+  },
+  {
+    "name": "ftb-quests-forge-2001.4.16.jar",
+    "hash": "3105c1735ee5a833670f4dd605786b5c552a28f0d6d9afb15c2c6db08a1ea508",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ftb-quests-forge-2001.4.16.jar"
+  },
+  {
+    "name": "ftb-teams-forge-2001.3.1.jar",
+    "hash": "d6e3cf8d0bdae7f848764428c613ae2528aecf9d275b4169eb8e15da87b41863",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ftb-teams-forge-2001.3.1.jar"
+  },
+  {
+    "name": "ftb-xmod-compat-forge-2.1.3.jar",
+    "hash": "16a8eb9de88d5c33d29cb076cc39dfb337b2c54348e1ef1efe9dd60cf85e5f72",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ftb-xmod-compat-forge-2.1.3.jar"
+  },
+  {
+    "name": "gamediscs-0.3.2-forge.jar",
+    "hash": "ea5abfa926d8446b078cff02b36897116761dbf96a0c8616fb95c83c6440dc03",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/gamediscs-0.3.2-forge.jar"
+  },
+  {
+    "name": "geckolib-forge-1.20.1-4.7.jar",
+    "hash": "34c87687f80d6bc098a9a63fb1dc94c288554c8d7e4903143d8ff1742a4b6261",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/geckolib-forge-1.20.1-4.7.jar"
+  },
+  {
+    "name": "getittogetherdrops-forge-1.20-1.3.jar",
+    "hash": "01e07848b9f741c713bc5b96469a4fbacf950c1285a65de2b153c32474dbdd1f",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/getittogetherdrops-forge-1.20-1.3.jar"
+  },
+  {
+    "name": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+    "hash": "e42a8b513da08a910c133caeafad9fc2fcc22fdaaa2eb3e2516e9112a5a0db61",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+  },
+  {
+    "name": "GlobalGameRules-1.20.1-8.1.0.12.jar",
+    "hash": "99910454017ffaef542b2b655b8f82c978fa055133d450e3322f532f54e5533e",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/GlobalGameRules-1.20.1-8.1.0.12.jar"
+  },
+  {
+    "name": "GPUTape-1.18x-1.21x-1.0.5.1-forge.jar",
+    "hash": "73b92c4f1d4bf3a99320ae9f936698974cbee44caf278d3a349f172ec85dcb17",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/GPUTape-1.18x-1.21x-1.0.5.1-forge.jar"
+  },
+  {
+    "name": "gundb-2.0.3-all.jar",
+    "hash": "8e758c0d89c7a30f3c8c5d0e1eaeb1929843be53904d91d4bfb35c74a3ec8940",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/gundb-2.0.3-all.jar"
+  },
+  {
+    "name": "harvest-with-ease-forge-1.20.1-9.4.0.jar",
+    "hash": "5391fde6854427d674ebce2ab572045c07e38f82e28702367198626624b8527b",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/harvest-with-ease-forge-1.20.1-9.4.0.jar"
+  },
+  {
+    "name": "Highlighter-1.20.1-forge-1.1.9.jar",
+    "hash": "8389c409257541c06789cd2287725d3df173168d9a0ebb9ff44c9b319e8b8026",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Highlighter-1.20.1-forge-1.1.9.jar"
+  },
+  {
+    "name": "horror_element_mod-1.6.2-forge-1.20.1.jar",
+    "hash": "3d379bc469bd98a2edd26e54eec2f160ce72ffe90818c83ff61041ba9560ef35",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/horror_element_mod-1.6.2-forge-1.20.1.jar"
+  },
+  {
+    "name": "Iceberg-1.20.1-forge-1.1.25.jar",
+    "hash": "91ad6b459e0c7a16a9f3dc90230248a696600ceec6646aa23263559b8648dbc3",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Iceberg-1.20.1-forge-1.1.25.jar"
+  },
+  {
+    "name": "Icterine-forge-1.20.0-1-1.3.0.jar",
+    "hash": "5f3d366c74d2f5b9a30268f5fa7b41de711069752b4d328899752d037c146ff3",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Icterine-forge-1.20.0-1-1.3.0.jar"
+  },
+  {
+    "name": "ImmediatelyFast-Forge-1.5.1+1.20.4.jar",
+    "hash": "c59706b336c03c46330d4e7a6ee1b178242322c0670d190a1fe0a5570aa943e1",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ImmediatelyFast-Forge-1.5.1%2B1.20.4.jar"
+  },
+  {
+    "name": "ImmersiveEngineering-1.20.1-10.2.0-183.jar",
+    "hash": "061dd0e8e066dc39277736d5607a47a18fee4aff428de3363882f96e5c405aaa",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ImmersiveEngineering-1.20.1-10.2.0-183.jar"
+  },
+  {
+    "name": "immersivefixes-1.0.3-all.jar",
+    "hash": "2d6ef2f2a4f6b7e83617b276c38173fa1c2c62dc39722f5cc66d8b8f4c06c54b",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/immersivefixes-1.0.3-all.jar"
+  },
+  {
+    "name": "immersivelanterns-forge-1.0.6-1.20.1.jar",
+    "hash": "a05339dde22dbb188ee79f634c4737667a983474580208010cf14ea9a74a414d",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/immersivelanterns-forge-1.0.6-1.20.1.jar"
+  },
+  {
+    "name": "ImmersiveUI-FORGE-0.3.0.jar",
+    "hash": "7295ae6681b178ed633e951b1f4478d15b2ed7b13836038caf7d3c9427fff1ff",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ImmersiveUI-FORGE-0.3.0.jar"
+  },
+  {
+    "name": "immersive_aircraft-1.4.0+1.20.1-forge.jar",
+    "hash": "45dd68b6707b3eeae0c958d0242b29ec03cdd0d8fc88af20761661ebf3c456cd",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/immersive_aircraft-1.4.0%2B1.20.1-forge.jar"
+  },
+  {
+    "name": "immersive_optimization-forge-1.20.1-0.1.0.jar",
+    "hash": "4b1ddb65d9c3b98c8781c34eb19f01c5f49b8ba7cefdf781d96dc9518f5821e7",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/immersive_optimization-forge-1.20.1-0.1.0.jar"
+  },
+  {
+    "name": "incontrol-1.20-9.4.5.jar",
+    "hash": "a983ff0816f10502999594cecbe5eb4efe18811a7e487b1e8111ad66be168757",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/incontrol-1.20-9.4.5.jar"
+  },
+  {
+    "name": "insanelib-1.21.14.jar",
+    "hash": "d69f13abd9251d61a63dde6a5c50c793b0d3358de5acef08e663839cb8fd1235",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/insanelib-1.21.14.jar"
+  },
+  {
+    "name": "interiors-0.5.6+forge-mc1.20.1-local.jar",
+    "hash": "bad27415238ef94bd78be0d4a2e6de48a86046060a6dc9c6d759b4bc6c73cfa7",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/interiors-0.5.6%2Bforge-mc1.20.1-local.jar"
+  },
+  {
+    "name": "inventoryhud.forge.1.20.1-3.4.26.jar",
+    "hash": "01d9a2d1e26fffff78eb47f3e4837189e7567dde849810b1bf6d278520c1e971",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/inventoryhud.forge.1.20.1-3.4.26.jar"
+  },
+  {
+    "name": "item-filters-forge-2001.1.0-build.59.jar",
+    "hash": "99417b1342ba51ccb9611b17ab01fc1299971aa34e8f9d2a8b3c63df5713eb49",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/item-filters-forge-2001.1.0-build.59.jar"
+  },
+  {
+    "name": "ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar",
+    "hash": "d428074672cbb48564c79cfe022507e16afac099e8b5eaf2f13eb7b899aee06a",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar"
+  },
+  {
+    "name": "item_scrapper-1.2.9.jar",
+    "hash": "577b66a0074a592945d624f8e363397e61c628f63037b1a2e6f39ff3f65c4169",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/item_scrapper-1.2.9.jar"
+  },
+  {
+    "name": "jei-1.20.1-forge-15.20.0.112.jar",
+    "hash": "2d3a86f503dbde51afa5142951525c37e227016ce8d9e7dfd10bbdd9233f0204",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/jei-1.20.1-forge-15.20.0.112.jar"
+  },
+  {
+    "name": "jeimultiblocks-1.20.1-1.0.6.jar",
+    "hash": "d7da29387d477adb67e100275f00917b2cb102737c1c11e2a8271ad96e1578d4",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/jeimultiblocks-1.20.1-1.0.6.jar"
+  },
+  {
+    "name": "jsconf-1.1.1.jar",
+    "hash": "0719430e0404f55c8bebc2dff7a82416d8081eb9dc2944fda9575e71513144bd",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/jsconf-1.1.1.jar"
+  },
+  {
+    "name": "JustOutdoorStuffs-1.20.1-forge-v1.0.2.jar",
+    "hash": "d2542d083c6c40ab47a3e8b69e68624b075ff73646e9071dfa83f86624557238",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/JustOutdoorStuffs-1.20.1-forge-v1.0.2.jar"
+  },
+  {
+    "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+    "hash": "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+  },
+  {
+    "name": "kotlinforforge-4.11.0-all.jar",
+    "hash": "ef988f86d170af499d147ea8a5c34c99dbd6d8f4a5ad236a4b43818dc4470a10",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/kotlinforforge-4.11.0-all.jar"
+  },
+  {
+    "name": "kubejs-create-forge-2001.3.0-build.8.jar",
+    "hash": "7ed3229677a98159badd9250f8e9555b5e8f7f7b55981f1a99b11e30574bafd4",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/kubejs-create-forge-2001.3.0-build.8.jar"
+  },
+  {
+    "name": "kubejs-forge-2001.6.5-build.16.jar",
+    "hash": "3de6b7267d3aab981848ed54d3afe7edf20532fa4060631fd6fffcd99ac5f3d5",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/kubejs-forge-2001.6.5-build.16.jar"
+  },
+  {
+    "name": "lazyyyyy-lexforge-core-0.14.19.jar",
+    "hash": "5a34ec4c93990f46813c6bde29fd401c1b2954e3d6f8872f6d861a2a0719801e",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/lazyyyyy-lexforge-core-0.14.19.jar"
+  },
+  {
+    "name": "legendarysurvivaloverhaul-1.20.1-2.3.23.1.jar",
+    "hash": "d1859f543417697dd5708fb63b01aeecd26988d5abd359bef4e929931988b692",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/legendarysurvivaloverhaul-1.20.1-2.3.23.1.jar"
+  },
+  {
+    "name": "legendarytabs-1.20.1-1.1.3.1.jar",
+    "hash": "4c1cd57db75bb4b3adce9b17f9722dc69f45e5907e28a915dd7abfc6bb53cedf",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/legendarytabs-1.20.1-1.1.3.1.jar"
+  },
+  {
+    "name": "letmedespawn-1.20.x-forge-1.5.0.jar",
+    "hash": "c6be3d9a62234d96d302369ac0a0ee238bdc0cf1b7f7280532d4365e9fabc09e",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/letmedespawn-1.20.x-forge-1.5.0.jar"
+  },
+  {
+    "name": "letsdo-API-forge-1.2.15-forge.jar",
+    "hash": "d08b99df112cfffb46e289635c79d4ac8397223320abd6469b47e202e23fa28c",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/letsdo-API-forge-1.2.15-forge.jar"
+  },
+  {
+    "name": "letsdo-bakery-forge-1.1.15.jar",
+    "hash": "a20f1b1cba05c2cf9f12b28fa28649af417fb9a4b330641236bb1b71c63b0e09",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/letsdo-bakery-forge-1.1.15.jar"
+  },
+  {
+    "name": "letsdo-vinery-forge-1.4.39.jar",
+    "hash": "dc708883f41268ae84d37a2e3e1935d3bfe57505c78a92e7fe5a3793f8464931",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/letsdo-vinery-forge-1.4.39.jar"
+  },
+  {
+    "name": "lmft-1.0.4+1.20.1-forge.jar",
+    "hash": "e622af8d32c6a41904ceaa2da0174491c68b7acd3ec9888c47991dc9b6f591cc",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/lmft-1.0.4%2B1.20.1-forge.jar"
+  },
+  {
+    "name": "Log-Begone-Forge-1.20.1-1.0.8.jar",
+    "hash": "7ac59d4a83c7841f46d1182b626f7b0d229b9159b8ec1a63d7a7dd40fc817adc",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Log-Begone-Forge-1.20.1-1.0.8.jar"
+  },
+  {
+    "name": "LongerChatHistory-1.3-Forge.jar",
+    "hash": "a7a19296d23bf01c2263d25ffc489cc4db2b6f49268781b47b5f788ab3700aa8",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/LongerChatHistory-1.3-Forge.jar"
+  },
+  {
+    "name": "Loot Journal-forge-1.20.1-5.0.1.jar",
+    "hash": "8db800d1bc890dc5f8d3a3fd671e6c103cd063ba46902eae4b4e0ced9992d6ee",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Loot%20Journal-forge-1.20.1-5.0.1.jar"
+  },
+  {
+    "name": "lootr-forge-1.20-0.7.35.94.jar",
+    "hash": "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/lootr-forge-1.20-0.7.35.94.jar"
+  },
+  {
+    "name": "lostcities-1.20-7.4.11.jar",
+    "hash": "7a3f3c55de1b869380fdbdef4fa8865bc1daf3ae6c66fab1056ea44d6534b4fb",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/lostcities-1.20-7.4.11.jar"
+  },
+  {
+    "name": "lostradar-1.20-1.1.0.jar",
+    "hash": "407b6eace8ce62affeb93e823cdd2a4ca22935b284efd5092ff2588f0e28f800",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/lostradar-1.20-1.1.0.jar"
+  },
+  {
+    "name": "lostsouls-1.20-4.1.6.jar",
+    "hash": "03654fe5e43042e4b743a68186fec2d027b95b8924de8d94f34eaf15bd556792",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/lostsouls-1.20-4.1.6.jar"
+  },
+  {
+    "name": "lostworlds-1.20-0.0.3.jar",
+    "hash": "bc49c89e236700f15188ef29b3bf4971924e1199b5e0675d34c149db3cfba80e",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/lostworlds-1.20-0.0.3.jar"
+  },
+  {
+    "name": "mapperbase-1.20.1-6.0.0.0.jar",
+    "hash": "647c7f7b5facb000f1a3352ed3fe68059aad5ae1d8385f31871c29eb81f9d480",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/mapperbase-1.20.1-6.0.0.0.jar"
+  },
+  {
+    "name": "MaxHealthFix-Forge-1.20.1-12.0.3.jar",
+    "hash": "d800c6f687c25f156c4ba90b20deaa47eda9c2360c9bdf02fc7a434f78cc935d",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/MaxHealthFix-Forge-1.20.1-12.0.3.jar"
+  },
+  {
+    "name": "mcjtylib-1.20-8.0.7.jar",
+    "hash": "94bd29416230b688991028cd6c80a52ccded94a3f273c2bfae51b7701ecd549b",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/mcjtylib-1.20-8.0.7.jar"
+  },
+  {
+    "name": "MCreatorMemFix-1.0.4.jar",
+    "hash": "3eb2bab5ac5a8b451623918a589b5dd6e60909764b76ac521a69790eb6062088",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/MCreatorMemFix-1.0.4.jar"
+  },
+  {
+    "name": "MCT-RS-Mixin-1.20.1-1.0.0-b400-release.jar",
+    "hash": "307cd4a408f59c5ad1a6c8c1e00f4e12273af5b2c1395024f22a0984f434c196",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/MCT-RS-Mixin-1.20.1-1.0.0-b400-release.jar"
+  },
+  {
+    "name": "MEED-1.20.1-6.7.jar",
+    "hash": "cdffd3fb755fb48c2bcc9f4f44d6b095de4981c8ec6d32f8e667536d72000bd7",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/MEED-1.20.1-6.7.jar"
+  },
+  {
+    "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+    "hash": "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+  },
+  {
+    "name": "MergeEnchantments-FORGE-1.20.[0-4]-v4.3.jar",
+    "hash": "158cb8dd007d17bda304a184c58f6d472ebe0aa1ab6d6b10fea3516227cd7484",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/MergeEnchantments-FORGE-1.20.%5B0-4%5D-v4.3.jar"
+  },
+  {
+    "name": "MOAdecor ART 1.20.1.jar",
+    "hash": "45857f3268e4ecaaebff55e58a98f3dd79240d04b61eb547a182f9a2c2ce93c2",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/MOAdecor%20ART%201.20.1.jar"
+  },
+  {
+    "name": "MOAdecor BATH 1.20.1.jar",
+    "hash": "3fc869f3058198956f17a0ae2b76ac44d441b6792c34129e042f84f9fc1335a5",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/MOAdecor%20BATH%201.20.1.jar"
+  },
+  {
+    "name": "MOAdecor SCIENCE 1.20.1.jar",
+    "hash": "db35644bf85d1a82e3623b51fb51406ca2da6925388a682dd8351eb323256f96",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/MOAdecor%20SCIENCE%201.20.1.jar"
+  },
+  {
+    "name": "mobsunscreen-forge-1.20.1-3.1.1.jar",
+    "hash": "92595dacd3a5fccefb61819453165066f978537815a2ddd4b4d74c7d0c699c91",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/mobsunscreen-forge-1.20.1-3.1.1.jar"
+  },
+  {
+    "name": "mobtimizations-forge-1.20.1-1.0.0.jar",
+    "hash": "660413c817a9e4081979bf4fde7ecb802490933383e4eba67ab9d33ca7f60c54",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/mobtimizations-forge-1.20.1-1.0.0.jar"
+  },
+  {
+    "name": "modelfix-1.15.jar",
+    "hash": "35f27982242a3ea58c526204a28704ddf355d19bb2e9b0ff10f9585c255a4f16",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/modelfix-1.15.jar"
+  },
+  {
+    "name": "modernfix-forge-5.25.1+mc1.20.1.jar",
+    "hash": "59c6fc3df68a8016c564baeef258e0e1ae2f9056463c82d25acd1823a6a48e08",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/modernfix-forge-5.25.1%2Bmc1.20.1.jar"
+  },
+  {
+    "name": "moonlight-1.20-2.14.13-forge.jar",
+    "hash": "0a7b1e5565520a0ba446bbe13605021bd7923593c582273cd2b77c972aee8767",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/moonlight-1.20-2.14.13-forge.jar"
+  },
+  {
+    "name": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+    "hash": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
+  },
+  {
+    "name": "MRU-1.0.4+1.20.1+forge.jar",
+    "hash": "520c07bceb8987c4bb355d32b495ae03e4f106553df47b1a9691a08420016fa2",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/MRU-1.0.4%2B1.20.1%2Bforge.jar"
+  },
+  {
+    "name": "Nameless Trinkets-1.20.1-1.8.5.jar",
+    "hash": "ced5f0f14c9ce929321421753beeb0f46d828a0ca3caeb681038ca0a2268dcd4",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Nameless%20Trinkets-1.20.1-1.8.5.jar"
+  },
+  {
+    "name": "nanny-1.0.6.jar",
+    "hash": "77226828193cf243ad30199b00a8084db22ba5f2a6972965f153786df924b6c8",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/nanny-1.0.6.jar"
+  },
+  {
+    "name": "naturalist-5.0pre2+forge-1.20.1.jar",
+    "hash": "2bdf7df54d5d0287016aa0f4228e426be74ce83a4ef30c7107d3010056a1d4d2",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/naturalist-5.0pre2%2Bforge-1.20.1.jar"
+  },
+  {
+    "name": "NaturesCompass-1.20.1-1.11.2-forge.jar",
+    "hash": "28e05589c9e4021d9504c9eea387ed4e80adcdcd0626a9623a53754cfa69f7bf",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/NaturesCompass-1.20.1-1.11.2-forge.jar"
+  },
+  {
+    "name": "Necronomicon-Forge-1.6.0+1.20.1.jar",
+    "hash": "403b23457288c624a55feb90d5e813c88c23a611bc42cda397c4bfac94b4c3a3",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Necronomicon-Forge-1.6.0%2B1.20.1.jar"
+  },
+  {
+    "name": "Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
+    "hash": "8f05afb56310b21e91d2f1d1200a9c0d98a34a9689b9b6288a6507c0498b299d",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Not%20Enough%20Recipe%20Book-FORGE-0.4.1%2B1.20.1.jar"
+  },
+  {
+    "name": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+    "hash": "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar"
+  },
+  {
+    "name": "oculus-mc1.20.1-1.8.0.jar",
+    "hash": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/oculus-mc1.20.1-1.8.0.jar"
+  },
+  {
+    "name": "open-parties-and-claims-forge-1.20.1-0.25.8.jar",
+    "hash": "6e286bdb3e85c8ad7a5d15756efd5822e371d41c5ff1403b5cec70118d0f283c",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/open-parties-and-claims-forge-1.20.1-0.25.8.jar"
+  },
+  {
+    "name": "packetfixer-3.3.1-1.18-1.20.4-merged.jar",
+    "hash": "4f641e4e204315a55b3f5a33e3039076ba08c95b68ac9280ea0081fb27470c13",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/packetfixer-3.3.1-1.18-1.20.4-merged.jar"
+  },
+  {
+    "name": "ParCool-1.20.1-3.4.1.5.jar",
+    "hash": "84b4cbf57aa8a1046f69d932f2cff44890ef252ae073adca91ffcac0af02175d",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ParCool-1.20.1-3.4.1.5.jar"
+  },
+  {
+    "name": "ParCool-CompatibilityAddon-1.20.1-3.4.1.5-1.1.jar",
+    "hash": "f7cf79f065b076f03ca42e7abb33cb00aa3ed8ca0743296dc25549c2efbc3871",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ParCool-CompatibilityAddon-1.20.1-3.4.1.5-1.1.jar"
+  },
+  {
+    "name": "particular-1.20.1-Forge-1.2.7.jar",
+    "hash": "6690973d8d9c651d5b2e17aff48392a5cc8752c01d208012a80c76fd44e63cb1",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/particular-1.20.1-Forge-1.2.7.jar"
+  },
+  {
+    "name": "Patchouli-1.20.1-84.1-FORGE.jar",
+    "hash": "9cc38ebb5e29b350222e337b7a5a2ba238c802230a89434ce00e90ee3026d056",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Patchouli-1.20.1-84.1-FORGE.jar"
+  },
+  {
+    "name": "pipez-forge-1.20.1-1.2.21.jar",
+    "hash": "4ace663c812e3af58106f6956443a0d5d1504c9afb262db49a633571d54bf1ee",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/pipez-forge-1.20.1-1.2.21.jar"
+  },
+  {
+    "name": "Placebo-1.20.1-8.6.3.jar",
+    "hash": "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Placebo-1.20.1-8.6.3.jar"
+  },
+  {
+    "name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+    "hash": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
+  },
+  {
+    "name": "plushie_buddies-0.1.6-1.20.1.jar",
+    "hash": "6e31a9fa99159c4c0daadcae4b33de03b3cc52c03d6377d020fabdc5f7fd286e",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/plushie_buddies-0.1.6-1.20.1.jar"
+  },
+  {
+    "name": "polymorph-forge-0.49.10+1.20.1.jar",
+    "hash": "cbe63a0a1cb6ae8dbc0e29bb96d149a137cd4e714b295fa49d230994091d157f",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/polymorph-forge-0.49.10%2B1.20.1.jar"
+  },
+  {
+    "name": "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+    "hash": "447dd543e178a9454ccf3bf0d9d7bd7957b1af6da9d74f2cd3d9b5fbe8548e98",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar"
+  },
+  {
+    "name": "Pretty Rain-1.20.1-Forge-1.1.3.jar",
+    "hash": "4d61ef6e1d1b4a3fb4acfc876fe0cfe14d56afe2097f952332c8c23838096ddf",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Pretty%20Rain-1.20.1-Forge-1.1.3.jar"
+  },
+  {
+    "name": "puffish_attributes-0.7.6-1.20-forge.jar",
+    "hash": "7c7438dadfe25c93d67485cdf396d53cb86482b7086d5526da5322b892e31851",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/puffish_attributes-0.7.6-1.20-forge.jar"
+  },
+  {
+    "name": "puffish_skills-0.16.5-1.20-forge.jar",
+    "hash": "1f1e28b26a390b704594407071840c10324f189bf99aa003143e00aee87ae0cc",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/puffish_skills-0.16.5-1.20-forge.jar"
+  },
+  {
+    "name": "PuzzlesLib-v8.1.32-1.20.1-Forge.jar",
+    "hash": "614741d2c4eeac0f01ceba8e6d0bbd134e2a501edf93a958da78e700933a8490",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/PuzzlesLib-v8.1.32-1.20.1-Forge.jar"
+  },
+  {
+    "name": "Quark-4.0-462.jar",
+    "hash": "c90b96f049d92825c4a103721988c80d72e5ad380d17be46a0f53e114874c478",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Quark-4.0-462.jar"
+  },
+  {
+    "name": "Quest Kill Task-0.2.0+1.20.1-forge.jar",
+    "hash": "a8e38b9655e9ae44895de3a58615bb42cf210655cd149f293b1a36df9b863556",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Quest%20Kill%20Task-0.2.0%2B1.20.1-forge.jar"
+  },
+  {
+    "name": "Radars 0.3.5.1-Create6.jar",
+    "hash": "9350e6a39765a97f7321c0b14099fc09de49e69542cd332cc5e6165086e339de",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Radars%200.3.5.1-Create6.jar"
+  },
+  {
+    "name": "radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+    "hash": "b42584e2672d6b5329959ec2b0f342395b19389fed0ee4d86ea71072f42f77a0",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/radium-mc1.20.1-0.12.4%2Bgit.26c9d8e.jar"
+  },
+  {
+    "name": "recipeessentials-1.20.1-4.0.jar",
+    "hash": "eb0ff236212f83cfb04b39c72678282a1b964a5cfcb0cecb314e953f03347f14",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/recipeessentials-1.20.1-4.0.jar"
+  },
+  {
+    "name": "redeco-1.14.1-forge-1.20.1.jar",
+    "hash": "bc71bd840f5098e82229f938a0862f80c7a91df7ef031c845bdfcb0a5f77523a",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/redeco-1.14.1-forge-1.20.1.jar"
+  },
+  {
+    "name": "redirected-forge-1.0.0-1.20.1.jar",
+    "hash": "f8968454baec53f196404fc8b01b79bd9749da35c031575babe091f2a7241e88",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/redirected-forge-1.0.0-1.20.1.jar"
+  },
+  {
+    "name": "refinedpolymorph-0.1.1-1.20.1.jar",
+    "hash": "39e4312a999aa686f3c91095dce424538708764be6d108634cf658647620f826",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/refinedpolymorph-0.1.1-1.20.1.jar"
+  },
+  {
+    "name": "refinedstorage-1.12.4.jar",
+    "hash": "d8ae3926c2121336efcd6956c43d91f21ce405b77ac7c7201c559d4c19f380d2",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/refinedstorage-1.12.4.jar"
+  },
+  {
+    "name": "refinedstorageaddons-0.10.0.jar",
+    "hash": "8371fe7932e88e3dd06401fd921a6ab2c52913287bd8994b096e47655c664491",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/refinedstorageaddons-0.10.0.jar"
+  },
+  {
+    "name": "refueled-1.20.1-2.4.2.jar",
+    "hash": "52dabc6110814b2032990003fba48bba1f4fd8375afe81395250f6ac701309b4",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/refueled-1.20.1-2.4.2.jar"
+  },
+  {
+    "name": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
+    "hash": "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/refurbished_furniture-forge-1.20.1-1.0.20.jar"
+  },
+  {
+    "name": "ResistanceBalancer-(NEO)FORGE-1.0.0.jar",
+    "hash": "4a651e1d07316fa260e717064668e18ecb742450084523e679adb1e7c36ac21c",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ResistanceBalancer-(NEO)FORGE-1.0.0.jar"
+  },
+  {
+    "name": "rhino-forge-2001.2.3-build.10.jar",
+    "hash": "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/rhino-forge-2001.2.3-build.10.jar"
+  },
+  {
+    "name": "ritchiesprojectilelib-2.1.0+mc.1.20.1-forge.jar",
+    "hash": "0c9cff7514d059601b290d3e14e28fc373083092fccd436de1d64a747e6714b3",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ritchiesprojectilelib-2.1.0%2Bmc.1.20.1-forge.jar"
+  },
+  {
+    "name": "saturn-mc1.20.1-0.1.3.jar",
+    "hash": "7e6dcc7c2b0db19ec2f965fac91a49e13dcc611f2d86f6bb56d7d68da901aaf8",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/saturn-mc1.20.1-0.1.3.jar"
+  },
+  {
+    "name": "scholar-1.20.1-1.1.5.1-forge.jar",
+    "hash": "65e9b0ed8b5cba7a31d8b1fb5ac03f428ca57c75d4aad6218cf3f592c0d80a77",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/scholar-1.20.1-1.1.5.1-forge.jar"
+  },
+  {
+    "name": "Searchables-forge-1.20.1-1.0.3.jar",
+    "hash": "c1a76e93886210574d3f298c0461241fb711e52ac22c7a04d3236840f29e6576",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Searchables-forge-1.20.1-1.0.3.jar"
+  },
+  {
+    "name": "SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+    "hash": "c4f1b6bcbd2c4fd8c54866cc217f455d2e8262e35ac218f8fb628c79bc76ff8e",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar"
+  },
+  {
+    "name": "shotsfired-1.20.1-0.2.2.jar",
+    "hash": "494bf2769ad88aa053d2e8a6d9fc3f079b6a22d9fef43166d5ea77330a6b1f77",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/shotsfired-1.20.1-0.2.2.jar"
+  },
+  {
+    "name": "ShoulderSurfing-Forge-1.20.1-4.15.0.jar",
+    "hash": "fed05648ba7250c77aa2d38a5cffd26a8d1fda584a8d865be6b2e815d227230a",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ShoulderSurfing-Forge-1.20.1-4.15.0.jar"
+  },
+  {
+    "name": "simpleplanes-1.20.1-5.3.3.jar",
+    "hash": "0bebadfdfe6c9aedff148cb76c6a4744d639592b46981899fc6037c00e6a85dd",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/simpleplanes-1.20.1-5.3.3.jar"
+  },
+  {
+    "name": "simplylight-1.20.1-1.4.6-build.50.jar",
+    "hash": "893c67fb4bbafee6e3208ba34bf60e2d6f17f4f9efdb6d1f12baa4052d8ddd10",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/simplylight-1.20.1-1.4.6-build.50.jar"
+  },
+  {
+    "name": "smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+    "hash": "5a0d2682493ffa7b140a7b81f0d1e70c7536c97969397cf9e718e31391b5b9d5",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar"
+  },
+  {
+    "name": "smoothchunk-1.20.1-4.1.jar",
+    "hash": "0ee48f7bf78070a7cb5858492faa6fe7d58443acbd97a92547bd664ee710e5c1",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/smoothchunk-1.20.1-4.1.jar"
+  },
+  {
+    "name": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+    "hash": "dff5325abb58c0c8526dffb80e764188bde045fd02ca6ed5e2bb76f0897d46f4",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar"
+  },
+  {
+    "name": "sodiumextras-forge-1.0.7-1.20.1.jar",
+    "hash": "ce9a13c5f07e350f9c0b86af9e096aedb91cbc72996e59646da61ec724f1e4df",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/sodiumextras-forge-1.0.7-1.20.1.jar"
+  },
+  {
+    "name": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+    "hash": "37ec0b6248f04e856e6e5ba2066c4ded9981ce128282a9b45cdb10b67b9c8415",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar"
+  },
+  {
+    "name": "solcarrot-1.20.1-1.15.1.jar",
+    "hash": "629d6744c8d856c51c74c66eba4c252c6d62d392dbaf5b24ea690cd8f081e679",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/solcarrot-1.20.1-1.15.1.jar"
+  },
+  {
+    "name": "sophisticatedbackpacks-1.20.1-3.24.10.1404.jar",
+    "hash": "5d9e8ee4caeaa47a5097f1a13b3b5eda2fd13070dcdff31c5ed94b7d2fa8f45f",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/sophisticatedbackpacks-1.20.1-3.24.10.1404.jar"
+  },
+  {
+    "name": "sophisticatedcore-1.20.1-1.2.106.1235.jar",
+    "hash": "9a475b1f8458f92a145caf049806ca2a4ea233689be82d0b9ed62d2dc0838f07",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/sophisticatedcore-1.20.1-1.2.106.1235.jar"
+  },
+  {
+    "name": "sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+    "hash": "57ce3c7d5abe724d9fb82f3d068b7717a56b94b7d3ea98f90a2f9ca61c8f57b1",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar"
+  },
+  {
+    "name": "soundofrain-0.5.0.jar",
+    "hash": "0f1580d9bc2af3474982e57df6126b28a8ad101622df324b7dc455cb6a4dd5e2",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/soundofrain-0.5.0.jar"
+  },
+  {
+    "name": "Sounds-2.2.1+1.20.1+forge.jar",
+    "hash": "2fa22c59f967e963c97e7d4374a8713247402fa6c87654b3057a1c248217c7fd",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Sounds-2.2.1%2B1.20.1%2Bforge.jar"
+  },
+  {
+    "name": "spacecatasb-forge-20.14.0.jar",
+    "hash": "acc880edc3d409cb3e2aaea4e136429665d622a0650adb1d933f053c845d0f0b",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/spacecatasb-forge-20.14.0.jar"
+  },
+  {
+    "name": "spark-1.10.53-forge.jar",
+    "hash": "eba275ba9bb0cb5b542913c3138c6eeff6a752898266d63d125d185f26ac99ed",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/spark-1.10.53-forge.jar"
+  },
+  {
+    "name": "SpawnerControl-forge-1.20.[1-4]-v1.3.jar",
+    "hash": "7d05b18308005c65fecf2fb4ef02b35d2df5c583739dbf43c3b9780692f64b98",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/SpawnerControl-forge-1.20.%5B1-4%5D-v1.3.jar"
+  },
+  {
+    "name": "spore_2.1.5c_1.20.1.jar",
+    "hash": "6c5542ed9f736b8aa01680d2f18e316b94ee3e61a5da9754806b4cba69995d70",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/spore_2.1.5c_1.20.1.jar"
+  },
+  {
+    "name": "Stackable Potions-forge-1.20.1-1.0.0.jar",
+    "hash": "14868a8936e10f1dccb6d6f0c56ae678b929db9b7d14b97bfc1116960d752b53",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Stackable%20Potions-forge-1.20.1-1.0.0.jar"
+  },
+  {
+    "name": "starterkit-1.20.1-7.4.jar",
+    "hash": "b44031f90b63dae5f050e05ed0f93cc7b87d7f8ed7e7199c2840a94807725c07",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/starterkit-1.20.1-7.4.jar"
+  },
+  {
+    "name": "StorageDrawers-1.20.1-12.9.14.jar",
+    "hash": "7c4cfd282b1fe7f5c2dab1c16fa8ec235fdc2c7dea5c34548c8b86ca93f34074",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/StorageDrawers-1.20.1-12.9.14.jar"
+  },
+  {
+    "name": "StylishEffects-v8.0.2-1.20.1-Forge.jar",
+    "hash": "1cf5bb835dadc45cb46241adf88ff8ca6ae76279a723f73bd2ce55be62ab85f6",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/StylishEffects-v8.0.2-1.20.1-Forge.jar"
+  },
+  {
+    "name": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+    "hash": "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
+  },
+  {
+    "name": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+    "hash": "b89c7703f909c75bff8981be7a3c7219138e01549666bd5cd5c47a1d6330489e",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar"
+  },
+  {
+    "name": "tacz-1.20.1-1.1.6-hotfix.jar",
+    "hash": "f9b4bb27cecff72750e6ef6e72a1ae579006f7dd1d5ac213c9b228fb4c8747fb",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/tacz-1.20.1-1.1.6-hotfix.jar"
+  },
+  {
+    "name": "tacz-tweaks-2.10.0-all.jar",
+    "hash": "4e778ec4e8e17f0dc2f49dfb5369a52a446735345c4ac690c5b25b8cb6458536",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/tacz-tweaks-2.10.0-all.jar"
+  },
+  {
+    "name": "taczammoquery-1.20.1-1.0.0.jar",
+    "hash": "4fbc312eeaa6cd4d5dc38628f1fe9e0548308cc1795370639dba43351f5c5e09",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/taczammoquery-1.20.1-1.0.0.jar"
+  },
+  {
+    "name": "TaxFreeLevels-1.4.14-forge-1.20.1.jar",
+    "hash": "31d251c766a773ed4a10273b48ec3f9ea333149b183639b9833e7e89f6899b3c",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/TaxFreeLevels-1.4.14-forge-1.20.1.jar"
+  },
+  {
+    "name": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+    "hash": "c109016f46ca9bdae69976bf080bbf2e8e5968cb66c0a78845f8ca6af5dbbeb1",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+  },
+  {
+    "name": "TexelsPaintings-forge-1.20.1-10.3.1.jar",
+    "hash": "deaed234bd0746652c0980fb7ea18803bf249b6bd2e18849ddd6eee6bbe2fddf",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/TexelsPaintings-forge-1.20.1-10.3.1.jar"
+  },
+  {
+    "name": "Texture-Locale-Redirector-forge-1.20.1+1.6.0.jar",
+    "hash": "2e9c2783be97a640ddcc0d5c68d9bc35ae89b2cfde037699cff0e562f79d185e",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Texture-Locale-Redirector-forge-1.20.1%2B1.6.0.jar"
+  },
+  {
+    "name": "The-Hordes-1.20.1-1.5.4c.jar",
+    "hash": "dd7d08839746aea2ded9974b2e506bb65e1e8c3423a481e0ab8bccffa1aa7a35",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/The-Hordes-1.20.1-1.5.4c.jar"
+  },
+  {
+    "name": "theoneprobe-1.20.1-10.0.3.jar",
+    "hash": "2a229ca4fd43c450873a09973680f97b2d24d01ab4295685921852eda722acd1",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/theoneprobe-1.20.1-10.0.3.jar"
+  },
+  {
+    "name": "THEUNDEADREVAMPED_1.9O_1.20.1.jar",
+    "hash": "f45325552c8ac5de7f2cfcee6011ba33065ec0ed9921701fe52a60a5175c23db",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/THEUNDEADREVAMPED_1.9O_1.20.1.jar"
+  },
+  {
+    "name": "ThisRocks-1.20.1-1.5.1.jar",
+    "hash": "9408a54a691ccc9fef23db453dd4c7431d51e6bb9c6bb3d7a5aaf97d78c1213a",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ThisRocks-1.20.1-1.5.1.jar"
+  },
+  {
+    "name": "toofast-1.20-0.4.3.5.jar",
+    "hash": "5dc0fc5687c43ad9cec522ebb6eda9d9c84edc5b0c401721e91450b1ef57de5a",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/toofast-1.20-0.4.3.5.jar"
+  },
+  {
+    "name": "tp_shooting-1.20.1-5.1.1+tacz1.1.6-all.jar",
+    "hash": "04e8a9bae99e54a972e91b8a1e5f3366e4020ec7fb762d9c8aafbf23ed29b8b1",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/tp_shooting-1.20.1-5.1.1%2Btacz1.1.6-all.jar"
+  },
+  {
+    "name": "trashcans-1.0.18b-forge-mc1.20.jar",
+    "hash": "533c14cfcc5d99e4889d9cdddea2e2ef382febfd5ae5ecb3b0676538a1ccdda4",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/trashcans-1.0.18b-forge-mc1.20.jar"
+  },
+  {
+    "name": "trashslot-forge-1.20-15.1.2.jar",
+    "hash": "9cc15728f84a0af0be0efa537cf897c0d98f3c706eb5dd5264c9cd58dc322411",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/trashslot-forge-1.20-15.1.2.jar"
+  },
+  {
+    "name": "TravelersTitles-1.20-Forge-4.0.2.jar",
+    "hash": "e72bcce5e31ab2d5f09eff53697969b32e56c35801b3014e03d558b442b9d38b",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/TravelersTitles-1.20-Forge-4.0.2.jar"
+  },
+  {
+    "name": "treeharvester-1.20.1-9.1.jar",
+    "hash": "97632ffc055a41970ad3d3390ea726d6629636abe7c07321a0eb94cfea21d186",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/treeharvester-1.20.1-9.1.jar"
+  },
+  {
+    "name": "txnilib-forge-1.0.23-1.20.1.jar",
+    "hash": "dfc27c6a99705e135225c54a9d431315f265aeb60c7316739c5dd8af9b87e8e9",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/txnilib-forge-1.0.23-1.20.1.jar"
+  },
+  {
+    "name": "UniLib-1.2.0+1.20.1-forge.jar",
+    "hash": "b1b4f08020982320597e6810aa68b237982ef1005a28c5919e826116486682b6",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/UniLib-1.2.0%2B1.20.1-forge.jar"
+  },
+  {
+    "name": "vanilla_music_discs-1.6-forge-1.20.1.jar",
+    "hash": "0401e3946b9b05610c90fe8acd8feae57cd961f458677d207083beddbbca5ebd",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/vanilla_music_discs-1.6-forge-1.20.1.jar"
+  },
+  {
+    "name": "vanillin-forge-1.20.1-1.1.3.jar",
+    "hash": "e2c5c712c6e41d71e2184b40914504914abb56826a4e8371bb1b929ee9482164",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/vanillin-forge-1.20.1-1.1.3.jar"
+  },
+  {
+    "name": "voicechat-forge-1.20.1-2.5.34.jar",
+    "hash": "d098bfbc074c1c40555507a2e8c4ab2c6d12e5c42d776312a4c42535f035128c",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/voicechat-forge-1.20.1-2.5.34.jar"
+  },
+  {
+    "name": "v_slab_compat-1.20-2.5.jar",
+    "hash": "e1f550bc8b23198c4853552c2302ee7153479ac9887d284f4342626727afc837",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/v_slab_compat-1.20-2.5.jar"
+  },
+  {
+    "name": "watut-forge-1.20.1-1.2.3.jar",
+    "hash": "19a7291187e1074dac0ade56f95cdb84936e8563c55afdc0b86c90ea7cd80a9e",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/watut-forge-1.20.1-1.2.3.jar"
+  },
+  {
+    "name": "weaponthrow-1.20.1-6.0-beta.1.jar",
+    "hash": "645771c8b0cff792570c1e4148251d9d408c423022ea76f1a999f7e43dd9d634",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/weaponthrow-1.20.1-6.0-beta.1.jar"
+  },
+  {
+    "name": "wormhole-1.1.16-forge-mc1.20.jar",
+    "hash": "c8eb1ea8471ef97f88cb74904dcee274895927c113701a64b99acbce1e918111",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/wormhole-1.1.16-forge-mc1.20.jar"
+  },
+  {
+    "name": "XaerosWorldMap_1.39.12_Forge_1.20.jar",
+    "hash": "c312ae6078bca65c179c74d3916fd22bff5dae70eef3c976b0ea7f3326d1917b",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/XaerosWorldMap_1.39.12_Forge_1.20.jar"
+  },
+  {
+    "name": "Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+    "hash": "2b5de085275d658e0445d783dbbcf9848c00aab8ac18cc2f664a62f44f78a18a",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Xaeros_Minimap_25.2.10_Forge_1.20.jar"
+  },
+  {
+    "name": "xptome-1.20.1-2.2.1.jar",
+    "hash": "5928265b95ddf073834560c6cc3a0ca997c8d2eec134a1d7fd4f1451e92a79d9",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/xptome-1.20.1-2.2.1.jar"
+  },
+  {
+    "name": "YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
+    "hash": "6dacf5ea0cec5d6d53e7d002d4a06ac4fa5f7ec665f3932bb6566136e6a7f8ed",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/YeetusExperimentus-Forge-2.3.1-build.6%2Bmc1.20.1.jar"
+  },
+  {
+    "name": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+    "hash": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar"
+  },
+  {
+    "name": "ytongame_hostingmenu-1.0.1.jar",
+    "hash": "4ad1b8fa922ba93c24e1a5d08a83606d3adc2b6f5c886b809f929de16a8a37cb",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ytongame_hostingmenu-1.0.1.jar"
+  },
+  {
+    "name": "YungsApi-1.20-Forge-4.0.6.jar",
+    "hash": "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/YungsApi-1.20-Forge-4.0.6.jar"
+  },
+  {
+    "name": "ZeroCore2-1.20.1-2.1.47.jar",
+    "hash": "69960caf8b25fb8b94631a6d526de2df8531ebf5eb25ff2f64d643825f109762",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ZeroCore2-1.20.1-2.1.47.jar"
+  },
+  {
+    "name": "Zeta-1.0-31.jar",
+    "hash": "cd1786902a79434f8fd762d741019d9c8a79725fef7e30a89c153c934e1e6a9e",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Zeta-1.0-31.jar"
+  },
+  {
+    "name": "Zombie Extreme 1.20.1 0.2.6.jar",
+    "hash": "6e17203684a6764487bd14fb449cb77bd8b2c1c2751f40f6204ec82c2389ef69",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Zombie%20Extreme%201.20.1%200.2.6.jar"
+  },
+  {
+    "name": "zombieawareness-1.20.1-1.13.1.jar",
+    "hash": "4f5104f7d29e1d065364d2483885f3751da2bef09a734cead2fce81c82c46586",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/zombieawareness-1.20.1-1.13.1.jar"
+  },
+  {
+    "name": "[1.20.1] SecurityCraft v1.9.12.jar",
+    "hash": "4f749406931e71b2d5cb005e8ccf795806d89e0dd4029724308e0cc72f3b5ae3",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/%5B1.20.1%5D%20SecurityCraft%20v1.9.12.jar"
+  }
+]
