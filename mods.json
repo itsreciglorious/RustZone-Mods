@@ -1085,6 +1085,11 @@
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
   },
   {
+    "name": "PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+    "hash": "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar"
+  },
+  {
     "name": "plushie_buddies-0.1.6-1.20.1.jar",
     "hash": "6e31a9fa99159c4c0daadcae4b33de03b3cc52c03d6377d020fabdc5f7fd286e",
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/plushie_buddies-0.1.6-1.20.1.jar"
