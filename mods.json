@@ -385,9 +385,9 @@
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/cupboard-1.20.1-2.7.jar"
   },
   {
-    "name": "curios-forge-5.14.1+1.20.1.jar",
-    "hash": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
-    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/curios-forge-5.14.1%2B1.20.1.jar"
+    "name": "curios-forge-5.12.1+1.20.1.jar",
+    "hash": "9e902a43ba65907324a5bfc0d78098927cc791c477268be4a7602eda237b4ece",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/curios-forge-5.12.1%2B1.20.1.jar"
   },
   {
     "name": "CustomNPCs-1.20.1-GBPort-Unofficial-20251031.jar",
@@ -411,7 +411,7 @@
   },
   {
     "name": "DCTweaks_5.10.14.jar",
-    "hash": "20de3a5940cbc0f66253f90b7f1a535c89a0f3e3e80723c985660b43dc15f3bf",
+    "hash": "10953fdbaf061e4b87c598ab3c47177b63a8f1b1299f6055c3c90c7bc7664e1d",
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/DCTweaks_5.10.14.jar"
   },
   {
@@ -833,6 +833,11 @@
     "name": "kubejs-forge-2001.6.5-build.16.jar",
     "hash": "3de6b7267d3aab981848ed54d3afe7edf20532fa4060631fd6fffcd99ac5f3d5",
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/kubejs-forge-2001.6.5-build.16.jar"
+  },
+  {
+    "name": "lazyyyyy-lexforge-core-0.14.19.jar",
+    "hash": "5a34ec4c93990f46813c6bde29fd401c1b2954e3d6f8872f6d861a2a0719801e",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/lazyyyyy-lexforge-core-0.14.19.jar"
   },
   {
     "name": "legendarysurvivaloverhaul-1.20.1-2.3.23.1.jar",
@@ -1320,6 +1325,11 @@
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Stackable%20Potions-forge-1.20.1-1.0.0.jar"
   },
   {
+    "name": "starlight-1.1.2+forge.1cda73c.jar",
+    "hash": "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/starlight-1.1.2%2Bforge.1cda73c.jar"
+  },
+  {
     "name": "starterkit-1.20.1-7.4.jar",
     "hash": "b44031f90b63dae5f050e05ed0f93cc7b87d7f8ed7e7199c2840a94807725c07",
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/starterkit-1.20.1-7.4.jar"
@@ -1390,9 +1400,9 @@
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/theoneprobe-1.20.1-10.0.3.jar"
   },
   {
-    "name": "THEUNDEADREVAMPED_1.9O_1.20.1.jar",
-    "hash": "f45325552c8ac5de7f2cfcee6011ba33065ec0ed9921701fe52a60a5175c23db",
-    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/THEUNDEADREVAMPED_1.9O_1.20.1.jar"
+    "name": "THEUNDEADREVAMPED_1.9M_1.20.1.jar",
+    "hash": "784dfce5dd8559c642488835f7ea607094a6634b2243885b12ab7a2115f37bf5",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/THEUNDEADREVAMPED_1.9M_1.20.1.jar"
   },
   {
     "name": "ThisRocks-1.20.1-1.5.1.jar",
@@ -1430,9 +1440,9 @@
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/treeharvester-1.20.1-9.1.jar"
   },
   {
-    "name": "txnilib-forge-1.0.23-1.20.1.jar",
-    "hash": "dfc27c6a99705e135225c54a9d431315f265aeb60c7316739c5dd8af9b87e8e9",
-    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/txnilib-forge-1.0.23-1.20.1.jar"
+    "name": "txnilib-forge-1.0.22-1.20.1.jar",
+    "hash": "dcefc97563ce14a69b61d7c4cd3cd1fd989e3b5b7ee3034002d4ac333af72c57",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/txnilib-forge-1.0.22-1.20.1.jar"
   },
   {
     "name": "UniLib-1.2.0+1.20.1-forge.jar",
