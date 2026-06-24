@@ -385,9 +385,9 @@
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/cupboard-1.20.1-2.7.jar"
   },
   {
-    "name": "curios-forge-5.12.1+1.20.1.jar",
-    "hash": "9e902a43ba65907324a5bfc0d78098927cc791c477268be4a7602eda237b4ece",
-    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/curios-forge-5.12.1%2B1.20.1.jar"
+    "name": "curios-forge-5.14.1+1.20.1.jar",
+    "hash": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/curios-forge-5.14.1%2B1.20.1.jar"
   },
   {
     "name": "CustomNPCs-1.20.1-GBPort-Unofficial-20251031.jar",
@@ -395,14 +395,14 @@
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/CustomNPCs-1.20.1-GBPort-Unofficial-20251031.jar"
   },
   {
+    "name": "CustomPlayerModels-1.20-0.6.26a.jar",
+    "hash": "486b6e66f2fb81f8de75510a7a86d339b76d35d8d2d40ac433d759931bff490a",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/CustomPlayerModels-1.20-0.6.26a.jar"
+  },
+  {
     "name": "customportalapi-0.0.1-forge-1.20.jar",
     "hash": "beb4dc20bb307c28c1b5a510515baf69818ffa1b74cd8a5e1d50b1ba74407c73",
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/customportalapi-0.0.1-forge-1.20.jar"
-  },
-  {
-    "name": "darkness-forge-1.20.1-2.0.103-fork.jar",
-    "hash": "6a1e7db25ad3eeb48642ac2fa3d5a61043e32493c9fda7f0631ba4f3f4cc3fd4",
-    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/darkness-forge-1.20.1-2.0.103-fork.jar"
   },
   {
     "name": "DarkPaintings-Forge-1.20.1-17.0.4.jar",
@@ -638,6 +638,11 @@
     "name": "flickerfix-1.20.1-4.0.1.jar",
     "hash": "6f154f6bd798cdf5a9f3f90c743b396b2162308c69d9713af22091a18a4746b6",
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/flickerfix-1.20.1-4.0.1.jar"
+  },
+  {
+    "name": "Forgematica-0.1.13-mc1.20.1.jar",
+    "hash": "d2c7c9c9075ee4bd6a60e75bfcb14ea397a054ec441029960fc6890f330e539f",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/Forgematica-0.1.13-mc1.20.1.jar"
   },
   {
     "name": "framework-forge-1.20.1-0.7.15.jar",
@@ -915,6 +920,11 @@
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/lostworlds-1.20-0.0.3.jar"
   },
   {
+    "name": "MaFgLib-0.1.14-mc1.20.1.jar",
+    "hash": "2918c4f511b93d559ec8b85d87402e195baeec7634307740961d06435c4e7ed1",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/MaFgLib-0.1.14-mc1.20.1.jar"
+  },
+  {
     "name": "mapperbase-1.20.1-6.0.0.0.jar",
     "hash": "647c7f7b5facb000f1a3352ed3fe68059aad5ae1d8385f31871c29eb81f9d480",
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/mapperbase-1.20.1-6.0.0.0.jar"
@@ -1078,11 +1088,6 @@
     "name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
     "hash": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
-  },
-  {
-    "name": "PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
-    "hash": "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb",
-    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar"
   },
   {
     "name": "plushie_buddies-0.1.6-1.20.1.jar",
@@ -1385,9 +1390,9 @@
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/theoneprobe-1.20.1-10.0.3.jar"
   },
   {
-    "name": "THEUNDEADREVAMPED_1.9M_1.20.1.jar",
-    "hash": "784dfce5dd8559c642488835f7ea607094a6634b2243885b12ab7a2115f37bf5",
-    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/THEUNDEADREVAMPED_1.9M_1.20.1.jar"
+    "name": "THEUNDEADREVAMPED_1.9O_1.20.1.jar",
+    "hash": "f45325552c8ac5de7f2cfcee6011ba33065ec0ed9921701fe52a60a5175c23db",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/THEUNDEADREVAMPED_1.9O_1.20.1.jar"
   },
   {
     "name": "ThisRocks-1.20.1-1.5.1.jar",
@@ -1425,9 +1430,9 @@
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/treeharvester-1.20.1-9.1.jar"
   },
   {
-    "name": "txnilib-forge-1.0.22-1.20.1.jar",
-    "hash": "dcefc97563ce14a69b61d7c4cd3cd1fd989e3b5b7ee3034002d4ac333af72c57",
-    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/txnilib-forge-1.0.22-1.20.1.jar"
+    "name": "txnilib-forge-1.0.23-1.20.1.jar",
+    "hash": "dfc27c6a99705e135225c54a9d431315f265aeb60c7316739c5dd8af9b87e8e9",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/txnilib-forge-1.0.23-1.20.1.jar"
   },
   {
     "name": "UniLib-1.2.0+1.20.1-forge.jar",
