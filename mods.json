@@ -1055,16 +1055,6 @@
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/packetfixer-3.3.1-1.18-1.20.4-merged.jar"
   },
   {
-    "name": "ParCool-1.20.1-3.4.1.5.jar",
-    "hash": "84b4cbf57aa8a1046f69d932f2cff44890ef252ae073adca91ffcac0af02175d",
-    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ParCool-1.20.1-3.4.1.5.jar"
-  },
-  {
-    "name": "ParCool-CompatibilityAddon-1.20.1-3.4.1.5-1.1.jar",
-    "hash": "f7cf79f065b076f03ca42e7abb33cb00aa3ed8ca0743296dc25549c2efbc3871",
-    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/ParCool-CompatibilityAddon-1.20.1-3.4.1.5-1.1.jar"
-  },
-  {
     "name": "particular-1.20.1-Forge-1.2.7.jar",
     "hash": "6690973d8d9c651d5b2e17aff48392a5cc8752c01d208012a80c76fd44e63cb1",
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/particular-1.20.1-Forge-1.2.7.jar"
