@@ -490,6 +490,11 @@
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar"
   },
   {
+    "name": "enderchests-forge-1.20.1-1.4.jar",
+    "hash": "5aa94caa4a18f623b6a88bd9208764bc122f084f98849adc0ba6511b58b719a2",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/enderchests-forge-1.20.1-1.4.jar"
+  },
+  {
     "name": "EngineeredSchematics-1.2.3.jar",
     "hash": "16c36ae1a3e49be1c9a92d684e5fdc24b4301863305b4c940012d9b0d9ccf84c",
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/EngineeredSchematics-1.2.3.jar"
@@ -1253,6 +1258,11 @@
     "name": "SereneSeasons-forge-1.20.1-9.1.0.2.jar",
     "hash": "c4f1b6bcbd2c4fd8c54866cc217f455d2e8262e35ac218f8fb628c79bc76ff8e",
     "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar"
+  },
+  {
+    "name": "shetiphiancore-forge-1.20.1-1.5.jar",
+    "hash": "1511c8c17975abbe9667eb548e41bf1e68f21f0ef065b54341e70002d2e60175",
+    "url": "https://raw.githubusercontent.com/itsreciglorious/RustZone-Mods/main/mods/shetiphiancore-forge-1.20.1-1.5.jar"
   },
   {
     "name": "shotsfired-1.20.1-0.2.2.jar",
